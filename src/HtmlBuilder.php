@@ -1,3 +1,4 @@
+/*This is a simple Html builder program*/
 <?php
 
 namespace Collective\Html;
@@ -575,3 +576,4 @@ class HtmlBuilder
         throw new BadMethodCallException("Method {$method} does not exist.");
     }
 }
+/*Our process gets finished up here,thanks!*/
